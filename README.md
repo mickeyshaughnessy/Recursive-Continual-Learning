@@ -14,4 +14,6 @@ One time in ~2017 we had more than a week were the core Superlink routing models
 
 The SEX is a sentient services exchange that has been running more or less continually since September 2024.
 
+The way to win a land grab game is deploy automation early and often.
+
 
