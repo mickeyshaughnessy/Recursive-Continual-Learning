@@ -14,6 +14,12 @@ One time in ~2017 we had more than a week were the core Superlink routing models
 
 The SEX is a sentient services exchange that has been running more or less continually since September 2024.
 
-The way to win a land grab game is deploy automation early and often.
+The SEX provides businesses a protocol for bidding on services, grabbing jobs, maps, search, communications & location-based community services rendering. 
+
+To win a land grab game, deploy automation early and often.
+
+droidofdroids.py is a demonstration script for the capabilities of Jarvis, the full AI business automation uplift platform, available only through the X labs consulting service.
+
+XMoney is a form of hypermoney, a monetization uplift blockstream of video game data, similar to Bitcoin, Ethereum, Solana, ...
 
 
